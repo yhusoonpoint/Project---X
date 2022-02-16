@@ -1,0 +1,25 @@
+c:\users\abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\bin\Debug\Project - X.exe.config
+c:\users\abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\bin\Debug\Project - X.exe
+c:\users\abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\bin\Debug\Project - X.pdb
+c:\users\abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project___X.Properties.Resources.resources
+c:\users\abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project - X.csproj.GenerateResource.Cache
+c:\users\abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project - X.exe
+c:\users\abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project - X.pdb
+c:\users\abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project___X.decision_interface.resources
+c:\users\abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project___X.project.resources
+c:\users\abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project___X.schedule.resources
+c:\users\abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project___X.meeting.resources
+c:\users\abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project___X.subject.resources
+c:\users\abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project___X.appointment.resources
+c:\users\abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project___X.other.resources
+c:\users\abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project___X.home.resources
+c:\users\abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project___X.enrichment.resources
+c:\users\abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project___X.performance.resources
+C:\Users\Abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project___X.main_interface.resources
+C:\Users\Abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project___X.student_service.resources
+C:\Users\Abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project___X.feedback.resources
+C:\Users\Abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project___X.session.resources
+C:\Users\Abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project___X.about.resources
+C:\Users\Abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project___X.contact.resources
+C:\Users\Abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project___X.email.resources
+C:\Users\Abdul\OneDrive\Documents\Visual Studio 2013\Projects\Project - X\Project - X\obj\Debug\Project - X.csprojResolveAssemblyReference.cache
